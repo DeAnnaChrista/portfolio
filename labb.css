@@ -1,0 +1,50 @@
+body{
+   font-family: 'Titillium Web', sans-serif;
+
+    
+}
+
+
+.row{   
+
+    background-color:black;
+    color:white;
+    font-size:20px;
+}
+
+.mid{
+    background-color:white;
+    color:black;
+    align-items:center;
+    font-size:50px;
+    margin-top:5px;
+    margin-bottom:5px;
+}
+.aboutme{
+    border:1px solid black; 
+    font-family: 'Titillium Web', sans-serif;
+    font-size: smaller;
+    
+    
+}
+
+.row
+{
+	margin: 100px auto 0 auto;
+	display: block;
+	width: 900px;
+	text-align: center;
+	text-transform: uppercase;
+    display: flex;
+    justify-content:space-around;
+	letter-spacing: 2px;
+}
+
+
+
+body{
+    font-family: 'Titillium Web', sans-serif;
+
+
+}
+	                     
